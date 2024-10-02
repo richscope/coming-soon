@@ -1,5 +1,5 @@
 richscope.co {
-    reverse_proxy app:80
+    reverse_proxy app:8080
     tls {
         on_demand
     }
